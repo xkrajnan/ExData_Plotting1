@@ -1,6 +1,4 @@
 source('read_data.R')
-source('plot2.R')
-source('plot3.R')
 
 plot4 <- function() {
 	data <- read_data()
